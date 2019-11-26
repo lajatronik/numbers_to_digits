@@ -1,0 +1,7 @@
+/home/siemens/projects/numbers_to_digits/build/CMakeFiles/install/strip.dir
+/home/siemens/projects/numbers_to_digits/build/CMakeFiles/edit_cache.dir
+/home/siemens/projects/numbers_to_digits/build/CMakeFiles/numbers_to_digits.dir
+/home/siemens/projects/numbers_to_digits/build/CMakeFiles/rebuild_cache.dir
+/home/siemens/projects/numbers_to_digits/build/CMakeFiles/list_install_components.dir
+/home/siemens/projects/numbers_to_digits/build/CMakeFiles/install/local.dir
+/home/siemens/projects/numbers_to_digits/build/CMakeFiles/install.dir

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/siemens/projects/numbers_to_digits/main.cpp
+iostream
+-
+string
+-
+vector
+-
+sstream
+-
+algorithm
+-
+
